@@ -13,4 +13,5 @@ A collection of implementations of common sorting algorithms in 8068 Assembly.
 
 + [Bubble sort](BubbleSort.asm)
 + [Insertion Sort](InsertionSort.asm)
++ [Selection Sort](SelectionSort.asm)
   
